@@ -3,18 +3,17 @@
 
 A collection of Java applications built using core Java and Swing.
 
-## 🖼️ Image Enhancer App
+ Image Enhancer App
 
 A Java Swing GUI application to apply image processing techniques.
-
-### 📌 Features:
+ Features:
 - File chooser to select an image
 - Apply filters like:
   - Histogram Equalization
   - Fuzzy Enhancement
 - Save enhanced images
 
-### 💻 Technologies Used:
+Technologies Used:
 - Java
 - Java Swing
 - BufferedImage
@@ -28,11 +27,3 @@ A Java Swing GUI application to apply image processing techniques.
 
 ---
 
-## 📁 Files:
-- `Main.java` – GUI and control flow
-- `ImageEnhancer.java` – Logic for processing images
-
----
-
-### 📷 Screenshots:
-*(You can add 1–2 screenshots here)*  
